@@ -27,3 +27,8 @@ Follow the installation guide provided below.
 #app run successfully web url will be displayed
 
 - Running on http://127.0.0.1:5000/
+
+## Running docker
+
+
+docker compose up --build
